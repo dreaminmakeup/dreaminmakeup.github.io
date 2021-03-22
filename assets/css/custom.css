@@ -1,0 +1,45 @@
+.header-social-links {
+    margin: 0 auto;
+}
+
+.header-social-links a {
+    font-size: 25px;
+}
+
+#hero .btn-about {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    color: #000;
+    background-color: #f09af3;
+}
+  
+#hero .btn-about:hover {
+    background-color: #db68df;
+}
+
+#hero .btn-whatsapp {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 12px 40px;
+    border-radius: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    color: #fff;
+    background-color: #25d366;
+}
+
+#hero .btn-whatsapp:hover {
+    background-color: #67e796;
+}
